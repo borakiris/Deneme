@@ -1,0 +1,11 @@
+c:\users\bora.kiris\source\repos\Deneme\Deneme\bin\Debug\netcoreapp2.0\Deneme.deps.json
+c:\users\bora.kiris\source\repos\Deneme\Deneme\bin\Debug\netcoreapp2.0\Deneme.runtimeconfig.json
+c:\users\bora.kiris\source\repos\Deneme\Deneme\bin\Debug\netcoreapp2.0\Deneme.runtimeconfig.dev.json
+c:\users\bora.kiris\source\repos\Deneme\Deneme\bin\Debug\netcoreapp2.0\Deneme.dll
+c:\users\bora.kiris\source\repos\Deneme\Deneme\bin\Debug\netcoreapp2.0\Deneme.pdb
+c:\users\bora.kiris\source\repos\Deneme\Deneme\obj\Debug\netcoreapp2.0\Deneme.csprojResolveAssemblyReference.cache
+c:\users\bora.kiris\source\repos\Deneme\Deneme\obj\Debug\netcoreapp2.0\Deneme.csproj.CoreCompileInputs.cache
+c:\users\bora.kiris\source\repos\Deneme\Deneme\obj\Debug\netcoreapp2.0\Deneme.AssemblyInfoInputs.cache
+c:\users\bora.kiris\source\repos\Deneme\Deneme\obj\Debug\netcoreapp2.0\Deneme.AssemblyInfo.cs
+c:\users\bora.kiris\source\repos\Deneme\Deneme\obj\Debug\netcoreapp2.0\Deneme.dll
+c:\users\bora.kiris\source\repos\Deneme\Deneme\obj\Debug\netcoreapp2.0\Deneme.pdb
